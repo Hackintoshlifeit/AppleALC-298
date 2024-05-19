@@ -57,6 +57,8 @@
 								<integer>34</integer>
 							</dict>
 							<dict>
+								<key>Boost</key>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>18</integer>
 							</dict>
@@ -99,6 +101,8 @@
 								<integer>34</integer>
 							</dict>
 							<dict>
+								<key>Boost</key>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>24</integer>
 							</dict>
